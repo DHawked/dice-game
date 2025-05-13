@@ -1,4 +1,4 @@
-# Patika+ Frontend Bootcamp Hafta-09 (Dice Game)
+# Patika+ Frontend Bootcamp
 
 React ile geliştirilmiş basit ve interaktif bir zar atma oyunu. Player 2 ile yarışın!
 
